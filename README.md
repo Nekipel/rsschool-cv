@@ -1,1 +1,1 @@
-# rsschool-cv
+* https://nekipel.github.io/rsschool-cv/
